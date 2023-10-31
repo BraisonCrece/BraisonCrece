@@ -116,7 +116,7 @@
     <a href="https://www.linkedin.com/in/brais-fernandez-diaz" target="_blank">
         <img alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" />
     </a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/braisoncrece" target="_blank">
+    <a href="https://www.instagram.com/braisonscrece" target="_blank">
         <img alt="Instagram" src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30" />
     </a>
 </p>
