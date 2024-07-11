@@ -34,7 +34,7 @@
 - 🌱 I like to code in any language, but I mostly code with **Ruby**
 - 💡 **Learning:** Elixir & Phoenix
 - 📫 **Reach me at:** braisoncrece@gmail.com
-- 🌐 **Blog:** [OhMyBlog](https://oh-my-blog.fly.dev/) (Work In Progress)
+- 🌐 **Blog:** Soon, 🏗️ [OhMyBlog](https://oh-my-blog.fly.dev/) (Work In Progress)
 
 <details>
   <summary>⚙️ GitHub Stats </summary>
