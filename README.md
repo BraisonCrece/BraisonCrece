@@ -31,8 +31,9 @@
 
 - 🔭 I’m working at [Whitebox](https://www.whitebox.eu/)
 - 💬 I love to work applying **SOLID**, **DRY**, **TDD**, **BDD**, and **Clean Code**
-- 🌱 I like to code in any language, but I mostly code with **Ruby**
-- 💡 **Learning:** Elixir & Phoenix
+- 🌱 I like to code in any language, but I mostly code with **Ruby && JavaScript**
+- 🏗️ I'm also familiar with and interested in infrastructure and architecture (AWS, terraform, CI/CD, Docker...)
+- 💡 **Learning:** Go
 - 📫 **Reach me at:** braisoncrece@gmail.com
 - 🌐 **Blog:** Soon, 🏗️ [OhMyBlog](https://oh-my-blog.fly.dev/) (Work In Progress)
 
