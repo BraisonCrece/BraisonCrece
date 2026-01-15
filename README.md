@@ -1,11 +1,3 @@
-![Banner de Linkedin Moderno para Arquitecto Azul y Blanco (4)](https://github.com/BraisonCrece/BraisonCrece/assets/104019638/93ecf69c-f85e-4df9-9820-eb701818ffef)
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=braisoncrece&label=Profile%20views&color=0e75b6&style=flat" alt="BraisonCrece" />
-  <a href="https://twitter.com/eu_outravez">
-    <img src="https://img.shields.io/twitter/follow/eu_outravez?style=social" />
-  </a>
-</p>
-
 ### About Me:
 - 🔭 I’m working at [Whitebox](https://www.whitebox.eu/)
 - 💬 Critical thinker
