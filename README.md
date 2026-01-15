@@ -6,36 +6,15 @@
   </a>
 </p>
 
-### 📘 About Me:
-<details>
-<summary>💻 <b>My Passion for Software Engineering</b></summary>
+### About Me:
+- 🔭 I’m working at [Whitebox](https://www.whitebox.eu/)
+- 💬 Critical thinker
+- 🌱 Language agnostic, but I mostly code with **Ruby**
+- 📫 **Reach me at:** braisoncrece@gmail.com
 
-<div style="text-align: center;">
-    <p>
-        <em>
-            "I'm deeply passionate about software engineering, a field where I not only found my career but also my calling. I relish the rhythmic dance of coding, bringing ideas to life and solving intricate problems."
-        </em>
-    </p>
+<div style="text-align: center">
     <img src="https://pbs.twimg.com/media/Fn5DMwcXEAAyucW.jpg" alt="Do" width="100%"/>
 </div>
-    
-- **Coding Nirvana**: To me, programming is not merely a skill—it’s an art. It's the brush I wield to paint innovations and solutions on the canvas of technology.
-
-- **Devotion to Best Practices**: I am unswerving in my commitment to immaculate coding practices. Ensuring scalability, readability, and maintainability are not just priorities—they are my ethos.
-
-- **Pragmatic Visionary**: Balancing pragmatism and visionary thinking, I approach software development with a meticulous and forward-thinking mindset, building robust and future-proof solutions.
-
-- **Craftsmanship and Excellence**: My journey in software engineering is marked by a relentless pursuit of knowledge and a profound respect for the craftsmanship involved in creating high-quality software.
-
-</details>
-
-- 🔭 I’m working at [Whitebox](https://www.whitebox.eu/)
-- 💬 I love to work applying **SOLID**, **DRY**, **TDD**, **BDD**, and **Clean Code**
-- 🌱 I like to code in any language, but I mostly code with **Ruby && JavaScript**
-- 🏗️ I'm also familiar with and interested in infrastructure and architecture (AWS, terraform, CI/CD, Docker...)
-- 💡 **Learning:** Go
-- 📫 **Reach me at:** braisoncrece@gmail.com
-- 🌐 **Blog:** Soon, 🏗️ [OhMyBlog](https://oh-my-blog.fly.dev/) (Work In Progress)
 
 <details>
   <summary>⚙️ GitHub Stats </summary>
