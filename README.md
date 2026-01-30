@@ -8,18 +8,6 @@
     <img src="https://pbs.twimg.com/media/Fn5DMwcXEAAyucW.jpg" alt="Do" width="100%"/>
 </div>
 
-<details>
-  <summary>⚙️ GitHub Stats </summary>
-  <br>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=braisoncrece&show_icons=true&theme=tokyonight" alt="braisoncrece" width="500"/>
-  </p>
-  <summary>⚙️ Most Used Languages</summary>
-  <br>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=braisoncrece&theme=tokyonight&layout=compact" alt="braisoncrece" width="400"/>
-  </p>
-</details>
 🌐 Social Networks:
 <p>
     <a href="https://www.linkedin.com/in/brais-fernandez-diaz" target="_blank">
